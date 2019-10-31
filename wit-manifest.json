@@ -5,7 +5,7 @@
         "source": "git@github.com:sifive/freedom-devicetree-tools.git"
     },
     {
-        "commit": "64d7e084090f2cf9d4b1a2f18fe171f39427f267",
+        "commit": "f5e7c058ecc2b8ea91b807d1ace7e63a7a1c7ddf",
         "name": "freedom-metal",
         "source": "git@github.com:sifive/freedom-metal.git"
     },
@@ -20,7 +20,7 @@
         "source": "git@github.com:sifive/devicetree-overlay-generator.git"
     },
     {
-        "commit": "171cbb82c006793538ca687cab91ffcd38f63e55",
+        "commit": "4f3fdebfb370dbff8afc6b5cb755f3928e84cc4f",
         "name": "ldscript-generator",
         "source": "git@github.com:sifive/ldscript-generator.git"
     },
@@ -205,7 +205,7 @@
         "source": "git@github.com:sifive/benchmark-mem-latency.git"
     },
     {
-        "commit": "9cc32821bf7f49a4f82e555755e09792967a6fe3",
+        "commit": "81a05212d5e52554b76df27d0d2c4241ae35982f",
         "name": "FreeRTOS-metal",
         "source": "git@github.com:sifive/FreeRTOS-metal.git"
     },
@@ -215,17 +215,17 @@
         "source": "git@github.com:sifive/Segger_SystemView-metal.git"
     },
     {
-        "commit": "f0187939df63420c7373d3da777e7e423047c2be",
+        "commit": "78ab714fb2fabf1d837554d4f8eebb8599d7df90",
         "name": "example-freertos-blinky",
         "source": "git@github.com:sifive/example-freertos-blinky.git"
     },
     {
-        "commit": "65cc0384edcaba1d8d4d7e8b4667d999b252e337",
+        "commit": "8f825f39819635eabd69fc2c60cdac3d47a8b082",
         "name": "example-freertos-minimal",
         "source": "git@github.com:sifive/example-freertos-minimal.git"
     },
     {
-        "commit": "672dd157979cbc01f4822266f519fc55a4050f11",
+        "commit": "09195afe3df62a212603c203260a1ad7dc89f2a4",
         "name": "example-freertos-blinky-systemview",
         "source": "git@github.com:sifive/example-freertos-blinky-systemview.git"
     },

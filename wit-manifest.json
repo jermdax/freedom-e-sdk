@@ -5,7 +5,7 @@
         "source": "git@github.com:sifive/freedom-devicetree-tools.git"
     },
     {
-        "commit": "f5e7c058ecc2b8ea91b807d1ace7e63a7a1c7ddf",
+        "commit": "d82eeb2e95951d2fc20c24b3ebf68ea304cbf14f",
         "name": "freedom-metal",
         "source": "git@github.com:sifive/freedom-metal.git"
     },
@@ -20,7 +20,7 @@
         "source": "git@github.com:sifive/devicetree-overlay-generator.git"
     },
     {
-        "commit": "4f3fdebfb370dbff8afc6b5cb755f3928e84cc4f",
+        "commit": "0fff38012af8ab7dc1715d08e5ff3456847ceb65",
         "name": "ldscript-generator",
         "source": "git@github.com:sifive/ldscript-generator.git"
     },
@@ -90,7 +90,7 @@
         "source": "git@github.com:sifive/example-pmp.git"
     },
     {
-        "commit": "17176f92886e6d0918b3422f24d592f97db9ed62",
+        "commit": "fccc12cc6f11dd6854335278fa40272b1e6194bd",
         "name": "example-rtc",
         "source": "git@github.com:sifive/example-rtc.git"
     },
@@ -100,7 +100,7 @@
         "source": "git@github.com:sifive/example-spi.git"
     },
     {
-        "commit": "be15c38fc63e3e4285c40a2d84af1b649b9ba8bf",
+        "commit": "cefe9652f6dea08a9ba2a3af85d49d9f83b5f159",
         "name": "example-watchdog",
         "source": "git@github.com:sifive/example-watchdog.git"
     },
@@ -205,7 +205,7 @@
         "source": "git@github.com:sifive/benchmark-mem-latency.git"
     },
     {
-        "commit": "81a05212d5e52554b76df27d0d2c4241ae35982f",
+        "commit": "456815707ae50ae1c735cb95b76942773956b5a8",
         "name": "FreeRTOS-metal",
         "source": "git@github.com:sifive/FreeRTOS-metal.git"
     },

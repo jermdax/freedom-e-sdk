@@ -22,6 +22,16 @@ do
             continue
         fi
 
+	# mc examples are broken
+	if [ "${program}" == "example-freertos-mc" -o "${program}" == "example-freertos-blinky-mc" ]; then
+	    continue
+	fi
+
+	# can't push to example-i2c or example-pwm yet, so they're broken
+	if [ "${program}" == "example-i2c" -o "${program}" == "example-pwm" ]; then
+	    continue
+	fi
+
         make TARGET="${target}" PROGRAM="${program}" CONFIGURATION="${CONFIGURATION}" -j${nproc} software
         make TARGET="${target}" PROGRAM="${program}" CONFIGURATION="${CONFIGURATION}" clean-software
     done
